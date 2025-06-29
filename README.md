@@ -50,9 +50,4 @@ A real-time multiplayer tank battle game where players train neural networks to 
 | Frontend | Vanilla JS |
 | Visualization | Chart.js |
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/neural-tank-battle.git
-cd neural-tank-battle

@@ -1,4 +1,5 @@
 # Neural Network Tank Battle Game 🎮🤖
+![Prototype](https://img.shields.io/badge/status-prototype-blueviolet)
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
 ![Socket.io](https://img.shields.io/badge/Socket.io-4.x-blue)

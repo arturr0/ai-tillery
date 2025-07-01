@@ -9,7 +9,7 @@ A real-time multiplayer tank battle game where players train neural networks to 
 
 **Important Note:** When running on a single device, both browser tabs must remain active/visible on screen for synchronized training and combat between two users.
 
-## Table of Contents
+<!--## Table of Contents
 - [Features](#features)
 - [Technical Stack](#technical-stack)
 - [Installation](#installation)
@@ -17,7 +17,7 @@ A real-time multiplayer tank battle game where players train neural networks to 
 - [Game Mechanics](#game-mechanics)
 - [Neural Network](#neural-network)
 - [Multiplayer](#multiplayer)
-- [License](#license)
+- [License](#license)-->
 
 ## Features
 

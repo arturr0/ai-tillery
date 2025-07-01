@@ -4,7 +4,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
 ![Socket.io](https://img.shields.io/badge/Socket.io-4.x-blue)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
+<!--![License](https://img.shields.io/badge/License-MIT-brightgreen)>
 
 A real-time multiplayer tank battle game where players train neural networks to aim and fire projectiles. Built with Node.js, Socket.io, and p5.js.
 

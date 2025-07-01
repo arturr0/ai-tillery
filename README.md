@@ -2,7 +2,7 @@
 
 [![Prototype](https://img.shields.io/badge/status-prototype-blueviolet?logo=vercel)](https://ai-tanks.onrender.com)
 
-https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/t.png?v=1751393215065
+![Chat App Preview](https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/t.png?v=1751393215065)
 
 **[Live Demo](https://ai-tanks.onrender.com)**
 

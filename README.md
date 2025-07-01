@@ -1,6 +1,6 @@
-# Neural Network Tank Battle Game 🎮🤖
-[![Prototype](https://img.shields.io/badge/status-prototype-blueviolet)]  
-**Live Demo:** https://ai-tanks.onrender.com
+[![Prototype](https://img.shields.io/badge/status-prototype-blueviolet?logo=vercel)](https://ai-tanks.onrender.com)
+
+**[Live Demo](https://ai-tanks.onrender.com)**
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
 ![Socket.io](https://img.shields.io/badge/Socket.io-4.x-blue)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)

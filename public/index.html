@@ -1,0 +1,54 @@
+<html>
+
+<head>
+  <title>Synchronized Tank Battle with NN Visualization</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.18.0/matter.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="/socket.io/socket.io.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="main">
+
+    <div id="appInfo">
+      <div id="inputApp">
+        <div id="InputContainer" style="display: flex; gap: 20px; align-items: center;">
+          <div>
+            <label for="LR">Learning Rate:</label><br>
+            <input type="number" id="LR" min="0" max="1">
+            <button onclick="handleNumber()">Submit</button>
+          </div>
+
+          <div>
+            <label for="DE">Shoot when error is less than:</label><br>
+            <input type="number" id="DE">
+            <button onclick="handleNumber()">Submit</button>
+          </div>
+        </div>
+
+        <div id="app">
+          <div id="info">
+            <canvas id="lossChart"></canvas>
+            <div id="infoPanel"></div>
+            <div id="outputPanel"></div>
+          </div>
+          <div class="life-containerL">
+            <div class="life-barL" id="lifeBarL"></div>
+          </div>
+          <div class="life-containerR">
+            <div class="life-barR" id="lifeBarR"></div>
+          </div>
+        </div>
+
+      </div>
+      <div id="nnVisualization"></div>
+    </div>
+
+  </div>
+  <div id="countdown"></div>
+  <script src="script.js"></script>
+</body>
+
+</html>

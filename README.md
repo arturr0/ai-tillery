@@ -1,4 +1,4 @@
-***Neural Network Ballistics
+**Neural Network Ballistics
 
 [![Prototype](https://img.shields.io/badge/status-prototype-blueviolet?logo=vercel)](https://ai-tanks.onrender.com)
 

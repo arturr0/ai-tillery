@@ -7,7 +7,7 @@
 
 A real-time multiplayer tank battle game where players train neural networks to aim and fire projectiles. Built with Node.js, Socket.io, and p5.js.
 
-**Important Note:** When running on a single device, both browser tabs must remain active/visible on screen for synchronized training and combat between two users.
+**Important Note:** The app only starts when 2 users. are online. When running on a single device, both browser tabs must remain active/visible on screen for synchronized training and combat between 2 users.
 
 <!--## Table of Contents
 - [Features](#features)

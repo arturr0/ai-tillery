@@ -1,58 +1,44 @@
-## Neural Network Ballistics
+## Neural Network Ballistics  
+[![Status](https://img.shields.io/badge/status-prototype-blueviolet)](https://ai-tanks.onrender.com)  
+![Tech](https://img.shields.io/badge/-Node.js-339933) ![Tech](https://img.shields.io/badge/-Socket.io-010101) ![Tech](https://img.shields.io/badge/-p5.js-ED225D)  
 
-[![Prototype](https://img.shields.io/badge/status-prototype-blueviolet?logo=vercel)](https://ai-tanks.onrender.com)
+🌐 **Live Demo**: [https://ai-tanks.onrender.com](https://ai-tanks.onrender.com)  
 
-![Chat App Preview](https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/t.png?v=1751393215065)
+🖼️ **Preview**:  
+![Game Preview](https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/t.png)  
 
-**[Live Demo](https://ai-tanks.onrender.com)**
+*A real-time multiplayer tank battle game where players train neural networks to aim and fire projectiles.*  
 
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
-![Socket.io](https://img.shields.io/badge/Socket.io-4.x-blue)
-<!--![License](https://img.shields.io/badge/License-MIT-brightgreen)>
+⚠️ **Important Note**: Requires 2 active players. When testing locally, keep both browser tabs visible for synchronized training.  
 
-A real-time multiplayer tank battle game where players train neural networks to aim and fire projectiles. Built with Node.js, Socket.io, and p5.js.
+### ✨ Features  
 
-**Important Note:** The app only starts when 2 users. are online. When running on a single device, both browser tabs must remain active/visible on screen for synchronized training and combat between 2 users.
+#### Core Gameplay  
+- Real-time tank combat physics  
+- Dynamic wind simulation  
+- Destructible tank models with particles  
+- Neural network aiming system  
 
-<!--## Table of Contents
-- [Features](#features)
-- [Technical Stack](#technical-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Game Mechanics](#game-mechanics)
-- [Neural Network](#neural-network)
-- [Multiplayer](#multiplayer)
-- [License](#license)-->
+#### Neural Network  
+- 3-layer architecture (1 input, 2 hidden, 1 output)  
+- Real-time training visualization  
+- Adaptive learning with momentum  
+- Loss function tracking  
 
-## Features
+#### Multiplayer  
+- WebSocket-based real-time sync  
+- Low-latency projectile physics  
+- Shared game state management  
+- 2-player battle system  
 
-### Core Gameplay
-- 🔫 Real-time tank combat physics
-- 💨 Dynamic wind simulation
-- 💥 Destructible tank models with particle effects
-- 🎯 Neural network-powered aiming system
+### 🤖 Model vs Model Battles  
+- **Live Training Duel**: Players simultaneously train their models during combat  
 
-### Neural Network
-- 🧠 3-layer architecture (1 input, 2 hidden, 1 output)
-- 📈 Real-time training visualization
-- 🔄 Adaptive learning with momentum
-- 📊 Loss function tracking
-
-### Multiplayer
-- 🌐 WebSocket-based real-time sync
-- ⚡ Low-latency projectile physics
-- 🔄 Shared game state management
-- 👥 2-player battle system
-
-## Technical Stack
-
-| Component | Technology |
-|-----------|------------|
-| Backend | Node.js, Express |
-| Realtime | Socket.io |
-| Physics | Matter.js |
-| Graphics | p5.js |
-| Frontend | Vanilla JS |
-| Visualization | Chart.js |
-
-
+### 🛠️ Technical Stack  
+| Component       | Technology                          |
+|-----------------|-------------------------------------|
+| Backend        | ![Node.js](https://img.shields.io/badge/-Node.js-339933) Express |
+| Realtime       | ![Socket.io](https://img.shields.io/badge/-Socket.io-010101) |
+| Physics        | Matter.js |
+| Graphics       | ![p5.js](https://img.shields.io/badge/-p5.js-ED225D) |
+| Visualization  | Chart.js |

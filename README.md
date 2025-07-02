@@ -37,8 +37,8 @@
 ### 🛠️ Technical Stack  
 | Component       | Technology                          |
 |-----------------|-------------------------------------|
-| Backend        | ![Node.js](https://img.shields.io/badge/-Node.js-339933) Express |
-| Realtime       | ![Socket.io](https://img.shields.io/badge/-Socket.io-010101) |
+| Backend        | Node.js Express |
+| Realtime       | Socket.io |
 | Physics        | Matter.js |
 | Graphics       | ![p5.js](https://img.shields.io/badge/-p5.js-ED225D) |
 | Visualization  | Chart.js |

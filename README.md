@@ -7,7 +7,7 @@
 
 🌐 **Live Demo**: [https://ai-tanks.onrender.com](https://ai-tanks.onrender.com)  
 
-*A real-time multiplayer tank battle game where players train neural networks to aim and fire projectiles.*  
+# A real-time multiplayer tank battle game where players train neural networks to aim and fire projectiles.
 
 ⚠️ **Important Note**: Requires 2 active players. When testing locally, keep both browser tabs visible for synchronized training.  
 

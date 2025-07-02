@@ -40,5 +40,5 @@
 | Backend        | Node.js Express |
 | Realtime       | Socket.io |
 | Physics        | Matter.js |
-| Graphics       | ![p5.js](https://img.shields.io/badge/-p5.js-ED225D) |
+| Graphics       | p5.js |
 | Visualization  | Chart.js |

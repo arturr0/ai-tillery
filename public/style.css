@@ -62,7 +62,7 @@ body { margin: 0; padding: 0; overflow: auto; }
 #outputPanel {
   position: absolute;
   top: 10px;
-  left: 400px;
+  left: 397px;
   background: rgba(255, 255, 255, 0.8);
   padding: 10px;
   border: 1px solid #ccc;

@@ -464,7 +464,7 @@ function draw() {
     ellipse(actualLandingX, height - groundHeight, 10);
   }
   fill(0);
-  ellipse(910, 300, 5);
+  //ellipse(910, 300, 5);
   // Process explosions
   processExplosions();
   drawExplosionEffects();

@@ -6,7 +6,7 @@
 <!--![Game Preview](https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/t.pg)-->
 ![Game Preview](https://artur-bednarski.onrender.com/public/images/tank.png)
 
-🌐 **Live Demo**: [https://ai-tanks.onrender.com](https://tank-rooms.onrender.com)  
+🌐 **Live Demo**: [https://tank-rooms.onrender.com](https://tank-rooms.onrender.com)  
 
 # A real-time multiplayer tank battle game where players train neural networks to aim and fire projectiles.
 
